@@ -7,11 +7,14 @@
   <img alt="sass" src="https://img.shields.io/badge/sass%20-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=%2320232a" />
   <img alt="javascript" src="https://img.shields.io/badge/javascript es6+%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="react" src="https://img.shields.io/badge/angular%20-E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 #### BACK-END
 <p>
   <img alt="node.js" src="https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="node.js" src="https://img.shields.io/badge/mongoDB%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
   
 #### TOOLS
